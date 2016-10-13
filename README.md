@@ -4,4 +4,4 @@
 
 在线访问：https://junhey.github.io/wuyuan/index.html
 
-![images](https://junhey.github.io/wuyuan/首页.png)
+![images](https://github.com/junhey/wuyuan/blob/master/首页.png)
